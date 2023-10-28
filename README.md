@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on some Backend.<br>🤝I'm looking to collaborate with someone who is interested in building React Webapps.<br>🌱I'm currently learning GoLang.<br>
+🔭I'm currently working on some Backend Project.<br>🤝I'm looking to collaborate with someone who is interested in building React Webapps.<br>🌱I'm currently learning GoLang.<br>
 
 
 ## 🌐 Socials:
