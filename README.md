@@ -1,6 +1,19 @@
 # 💫 About Me:
-🔭I'm currently working on some Backend Project.<br>🤝I'm looking to collaborate with someone who is interested in building React Webapps.<br>🌱I'm currently learning GoLang.<br>
 
+🔭 <b>I’m currently working on:</b><br>
+Building some Javascript projects to improve understanding.
+
+👯 <b>I’m looking to collaborate on:</b><br>
+Frontend projects.
+
+🌱 <b>I’m currently learning:</b><br>
+React JS.
+
+<!--💬 <b>Ask me about:</b><br>
+JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
+
+⚡ <b>Fun fact:</b><br>
+I love creating content.-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viinay.05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-bhoure-440b84216/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamviinay_05) 
