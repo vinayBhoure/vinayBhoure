@@ -1,74 +1,105 @@
-<h2 align="left">Hi👋! I'm Vinay Bhoure.</h2>
+<div align="center">
 
-###
+# Hi, I'm Vinay Bhoure 👋
 
-* 🌍  I'm based in Indore, India
-* 🖥️  See my portfolio at [Website](http://linktr.ee/vinaybhoure)
-* ✉️  You can contact me at [bhoure21@gmail.com](mailto:bhoure21@gmail.com)
-* 🧠  I'm learning for my college exams🤓
-* 🤝  I'm open to collaborating on Fullstack Projects
-/* * ⚡  Ask me anything about React JS */
+**SDE @ Samsung R&D · Systems + Full-Stack · Builder of Things**
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinaybhoure-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaybhoure)
+[![GitHub](https://img.shields.io/badge/GitHub-vinayBhoure-181717?style=flat&logo=github&logoColor=white)](https://github.com/vinayBhoure)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vinaybhoure.xyz-4f8ef7?style=flat&logo=vercel&logoColor=white)](https://vinaybhoure.xyz)
+
+</div>
+
+---
+
+## About Me
+
+I'm a Software Development Engineer at **Samsung R&D, Noida**, working on systems-level C++ (NUI layer, BFF middleware, real-time device-state sync). Before that, I built MERN stack products at DevSecRoot Technologies.
+
+Outside of work, I build side projects — developer tools, consumer apps, and whatever solves a problem I've been thinking about.
+
+- 🏢 **SDE @ Samsung R&D** — C++, NUI, middleware
+- 🎓 **CSE Graduate, MANIT Bhopal** (2024/2025)
+- 🔨 Currently building **Stratum CMS** — a headless CMS for developer portfolios
+- 🌱 Exploring AI-assisted product development workflows
+- 📍 Noida, India
+
+---
+
+## Tech Stack
+
+**Systems / Backend**
+```
+C++  ·  Node.js  ·  Express  ·  PostgreSQL  ·  Prisma  ·  REST APIs
+```
+
+**Frontend**
+```
+React  ·  Vite  ·  TypeScript  ·  Tailwind CSS  ·  Redux Toolkit
+```
+
+**Tools & Infra**
+```
+Git  ·  Docker  ·  AWS EC2  ·  Vercel  ·  Clerk Auth  ·  Supabase
+```
+
+---
+
+## Featured Projects
+
+### 🗂️ [Stratum CMS](https://github.com/vinayBhoure) *(In Progress)*
+> Developer-focused headless CMS for managing portfolio content via a clean API.
+
+- Stack: React + Vite + Tailwind · Express + Prisma + PostgreSQL · Clerk Auth
+- Designing a schema-first backend with typed endpoints and JWT-based auth
+- Built from a full PRD and database schema — architecture-first approach
+
+---
+
+### 🎮 [Multiplayer Tic-Tac-Toe](https://vinaybhoure.xyz)
+> Real-time multiplayer game with persistent state and live synchronization.
+
+- Frontend: React + Vite + Zustand → deployed on **Vercel**
+- Backend: Nakama + PostgreSQL → deployed on **AWS EC2**
+- Live at [vinaybhoure.xyz](https://vinaybhoure.xyz)
+
+---
+
+### 💸 SpendWise *(Paused)*
+> Personal finance PWA targeting Indian users — offline-first with sync.
+
+- Stack: React + TypeScript + Redux Toolkit + Supabase + Dexie.js
+- Designed full free/plus plan split, PWA offline sync architecture, and landing page
+- Paused to focus on Stratum CMS
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayBhoure&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayBhoure&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinayBhoure&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayBhoure&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## How I Work
 
-###
+I front-load architecture — PRDs, schema design, and API contracts before writing code. I use AI tools (Claude, Gemini CLI) but keep context in `AGENTS.md` / `GEMINI.md` files so the AI always has the right picture. Fast iterations, honest documentation, no fluff.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="30" alt="appwrite logo"  />
+---
+
+## Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinaybhoure) — for professional stuff
+- 🐙 [GitHub](https://github.com/vinayBhoure) — for the code
+- 🌐 [vinaybhoure.xyz](https://vinaybhoure.xyz) — portfolio + live projects
+
+---
+
+<div align="center">
+<sub>Building in public · Open to interesting problems · Always shipping something</sub>
 </div>
-
-###
-
-<div align="left">
-  <a href="https://linktr.ee/vinaybhoure" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
-  <a href="https://twitter.com/viinaystwt?t=sd6DC0hgP4MgMOjPPB0hSg&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/vinaybhoure" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-###
